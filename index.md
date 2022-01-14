@@ -1,5 +1,12 @@
 ---
 layout: splash
+title: Home
+header:
+  image: /assets/images/tablecloth.jpg
+feature_row:
+  - image_path: /assets/images/tablecloth.jpg
+    alt: "DV Banner"
+    title: "DV Banner"
 ---
 # Data Visualization Club @ Indiana Univeristy
 
