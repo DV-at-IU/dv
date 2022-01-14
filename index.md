@@ -2,9 +2,9 @@
 layout: splash
 title: Home
 header:
-  image: /assets/images/tablecloth.jpg
+  image: /images/DVBanner.png
 feature_row:
-  - image_path: /assets/images/tablecloth.jpg
+  - image_path: /images/DVBanner.png
     alt: "DV Banner"
     title: "DV Banner"
 ---
