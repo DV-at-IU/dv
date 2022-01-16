@@ -23,17 +23,17 @@ We meet every Monday on Zoom from 7:30 to 8:30.
 <script src="script.js"></script>
 <table class="table">
     <tr>
-        <td class="text-center"><img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/pgn headshot 1.jpg" style="border-radius:50%;">
+        <td class="text-center"><img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/pgn headshot 1.jpg" style="border-radius:50%; width: 100%;">
         <br>
         <h3 style="margin:10px">John Doe</h3>
         <h4>Co-President</h4>
         </td>
-      <td class="text-center"><img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/headshot.JPG" style="border-radius:50%;">
+      <td class="text-center"><img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/headshot.JPG" style="border-radius:50%; width: 100%;">
         <br>
         <h3 style="margin:10px">John Doe</h3>
         <h4>Co-President</h4>
         </td>
-      <td class="text-center"><img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/headshot.jpeg" style="border-radius:50%;">
+      <td class="text-center"><img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/headshot.jpeg" style="border-radius:50%; width: 100%;">
         <br>
         <h3 style="margin:10px">John Doe</h3>
         <h4>Co-President</h4>
