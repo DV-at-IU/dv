@@ -4,8 +4,8 @@ main:
     url: /Attendance/
   - title: "Files"
     url: /files/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Anchor"
+    url: \#test
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
