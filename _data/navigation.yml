@@ -5,7 +5,7 @@ main:
   - title: "Files"
     url: /files/
   - title: "Anchor"
-    url: \#test
+    url: '#test'
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
